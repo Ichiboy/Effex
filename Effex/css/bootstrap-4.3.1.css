@@ -1,4 +1,4 @@
-/*!
+f/*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
  * Copyright 2011-2019 Twitter, Inc.
@@ -5040,7 +5040,7 @@ a.badge-warning:focus, a.badge-warning.focus {
 
 .badge-danger {
   color: #fff;
-  background-color: #dc3545;
+  background-color: #28a745;
 }
 
 a.badge-danger:hover, a.badge-danger:focus {
@@ -5088,9 +5088,9 @@ a.badge-dark:focus, a.badge-dark.focus {
   margin-bottom: 2rem;
   background-color: #e9ecef;
   border-radius: 0.3rem;
-  background-image: url("../images/"); 
+  background-image: url("../images/Bakk.jpg"); 
   background-size: contain; 
-  
+  color: White;
   
 }
 
